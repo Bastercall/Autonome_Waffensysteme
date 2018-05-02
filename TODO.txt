@@ -1,0 +1,14 @@
+TO-DO:
+- Handout mit Beispielen zu Entscheidbarkeit
+- Wie weit ist freie Entscheidung möglich?
+- Folien weiterausbauen? (lol ja -> Marc die Problemstellung und Bilder)
+- Rechtschreibfehler Folien fixen.
+- Zwischenstand
+- Cooles zweites Paper bearbeiten
+- Readme für die GitHub
+- Vortrag üben (23.05.)
+- Standabfrage Vorguppe
+- Ausblick geben auf zukünftige Entwicklungen (->Tendenz zu Erkennen?)
+
+----------------------
+Nächstes Treffen 09.05.
